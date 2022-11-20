@@ -53,7 +53,7 @@ This way, adding line 60, 61, 104, 107 and 109, to script recognize contact numb
 
 
 ## HOW I'M USING
-The bot can be used to send any automated message. Particularly, I'm using with Node-Red (nodeJS based application). Node-Red starts the bot and keep writing the file with messages. The scope of the messages I'm using you can find here.
+The bot can be used to send any automated message. Particularly, I'm using with Node-Red (nodeJS based application). Node-Red starts the bot and keep writing the file with messages. The scope of the messages I'm using you can find <a href="https://github.com/VinicioAM/NodeJS_and_Node-Red/tree/main/Parameter%20Check%20Automation" target="_blank" rel="noreferrer"> **here**</a> and <a href="https://github.com/VinicioAM/IIoT/tree/main/Production_and_Scrap-Report" target="_blank" rel="noreferrer"> **here**</a>.
 
 <p align="center">
 <img src="./imgs/04.PNG" width=40% height=5% align="center">
